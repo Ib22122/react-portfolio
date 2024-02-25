@@ -15,7 +15,7 @@ function MyProjects() {
         </div>
         <div className="card1">
           <div className="image-container">
-            <img src="../img3.png" alt="the img" className="img-fluid" />
+            <img src="./img3.png" alt="the img" className="img-fluid" />
             <div className="overlay">
               <div className="content">
                 <h3>Business Startup</h3>
